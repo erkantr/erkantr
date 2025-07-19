@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/erkantr/erkantr/assets/banner.png" width="100%" alt="Erkan T. - Senior Android & AI Developer">
-</p>
-
 <h2 align="center">Hi, I'm Erkan — Android & AI Developer 🚀</h2>
 
 <p align="center">
