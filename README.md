@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **senior Android developer** with 5+ years of experience building production-ready applications that bridge complex AI systems with intuitive user experiences. My expertise lies in integrating **computer vision, robotics, and real-time simulation** into mobile platforms — with a particular focus on **Jetpack Compose**, **YOLOv8**, and **autonomous drone navigation**.
+I'm a **Android developer** with 5+ years of experience building production-ready applications that bridge complex AI systems with intuitive user experiences. My expertise lies in integrating **computer vision, robotics, and real-time simulation** into mobile platforms — with a particular focus on **Jetpack Compose**, **YOLOv8**, and **autonomous drone navigation**.
 
 My core strength is creating seamless connections between sophisticated backends, AI systems, and high-quality user experiences across Android, macOS, and embedded Linux environments.
 
