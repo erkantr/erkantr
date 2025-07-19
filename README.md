@@ -104,7 +104,7 @@ My core strength is creating seamless connections between sophisticated backends
 
 ### 🎯 What I'm Looking For
 
-- **Senior Android Developer** roles with AI/ML focus
+- **Android Developer** roles with AI/ML focus
 - **Robotics & Autonomous Systems** projects
 - **Computer Vision** integration opportunities
 - **Cross-platform** development challenges
